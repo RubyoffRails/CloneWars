@@ -6,7 +6,7 @@ Test creating a pull request
 What you should do:
 -------------------
 
-1. Clone this respository
+1. Fork this respository and clone
 2. Edit the clone_war.rb
 3. Paste in the code at the bottom
 4. commit the code using: `git commit -am "Feature: Not at war"`
