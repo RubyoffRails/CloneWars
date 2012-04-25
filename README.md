@@ -16,7 +16,7 @@ What you should do:
 
 ### The code to paste in
 ```
-class CloneWars
+class CloneWar
 
   def war?
     false
