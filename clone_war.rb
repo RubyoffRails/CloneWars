@@ -1,4 +1,4 @@
-class CloneWars
+class CloneWar
 
   def war?
     false
