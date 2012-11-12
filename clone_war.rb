@@ -1,6 +1,6 @@
 class CloneWar
 
   def war?
-    false
+    false 
   end
 end
