@@ -24,6 +24,12 @@ class CloneWar
 end
 ```
 
+You may need to add the following to the clone_war_test` file to get tests to pass:
+
+```
+require './clone_war'
+```
+
 
 ### Extra Credit
 
