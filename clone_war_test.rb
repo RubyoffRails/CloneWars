@@ -1,3 +1,4 @@
+require './clone_war'
 require 'minitest/autorun'
 
 class TestCloneWar < MiniTest::Unit::TestCase
