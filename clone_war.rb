@@ -1,1 +1,6 @@
-puts 1 + 2
+class CloneWar
+
+  def war?
+    false
+  end
+end
