@@ -1,12 +1,12 @@
 GEM
   remote: http://rubygems.org/
   specs:
-    minitest (2.12.1)
-    rake (0.9.2.2)
+    minitest (4.7.5)
+    rake (10.1.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  minitest
-  rake
+  minitest (~> 4.0)
+  rake (= 10.1.0)
