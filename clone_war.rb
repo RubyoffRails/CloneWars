@@ -5,3 +5,6 @@ class CloneWar
   end
   
 end
+
+cw = CloneWar.new()
+puts 
