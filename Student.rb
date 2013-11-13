@@ -18,6 +18,10 @@ class Student
   def senior?
     grade == 12
   end  
+  
+  def juniors?
+    grade == 11
+  end
 end # end of student class
 
 
