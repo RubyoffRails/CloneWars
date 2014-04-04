@@ -3,8 +3,4 @@ class CloneWar
     false
   end
 
-  def stormtroopers?
-    true
-  end
-
 end
